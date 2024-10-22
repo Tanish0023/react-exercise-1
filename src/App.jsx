@@ -1,12 +1,9 @@
-import GreetingCard from './Assignment CXP201/Q3/GreetingCard';
-import StudentListClass from './Assignment CXP201/Q4/Student List Class';
-import GreetingClass from './Assignment CXP201/Q5/GreetingClass';
-
+import DynamicInput from "./Assignment 3/Q5"
 function App() {
 
   return (
     <>
-      <GreetingCard/>
+      <DynamicInput/>
     </>
   )
 }
