@@ -1,9 +1,9 @@
 export default function WelcomeMessage() {
-    const name = "John";
+    const name = "Abhishek";
     return (
       <div>
         <h1 className="welcome-message">Welcome {name}!</h1>
-        <p>{`Hello, ${name}. Have a great day!`}</p>
+        <h2>{`Hello, ${name}. Have a wonderful day!`}</h2>
       </div>
     );
   }

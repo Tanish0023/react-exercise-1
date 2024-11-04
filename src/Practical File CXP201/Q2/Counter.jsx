@@ -15,8 +15,4 @@ function Counter({ initialCount }) {
   );
 }
 
-function App() {
-  return <Counter initialCount={5} />;
-}
-
-export default App;
+export default Counter;

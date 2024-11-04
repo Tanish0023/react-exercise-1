@@ -10,8 +10,8 @@ function GreetingCard() {
   
     return (
       <div className="greeting-card">
-        {renderGreetingMessage("John")}
-        {renderDescription("Welcome to the community. We're glad to have you!")}
+        {renderGreetingMessage("Hritvik")}
+        {renderDescription("How are you??")}
       </div>
     );
   }
